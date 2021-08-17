@@ -1,8 +1,17 @@
 ### Olá! Eu sou Gabriel Cassimiro 👋
+Seja bem vindo ao meu Github 
 
-- 🔭 Estudando linguagem de programação Java ...
-- 🌱 Estudando Typescript ...
+##
+<h4>Um pouco sobre mim</4> 
+💖<b> Desenvolvedor FullStack Java Junior</b> alumini pela <a href="https://brazil.generation.org/">Generation Brasil</a>
+<br>
+- 🔭 Programação em Java ... 
+<br>
+- 🌱 Estudando Typescript/HTML/CSS/ANGULAR ... 
+<br>
 - 🤔 Pronomouns: ele/dele
+
+
 
 <div>
   <a href="https://github.com/Cassimiroprog">
@@ -12,12 +21,12 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+    <img align="center" alt="Gabriel-bootstrap" height="40" width="75" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> 
   
   ## 
-  <div>  
     <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:gabrielcassimiro_@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
