@@ -2,16 +2,18 @@
 Seja bem vindo ao meu Github 
 
 ##
-<h4>Um pouco sobre mim</4> 
-💖<b> Desenvolvedor FullStack Java Junior</b> alumini pela <a href="https://brazil.generation.org/">Generation Brasil</a>
+<h5>Um pouco sobre mim:</5> 
 <br>
-- 🔭 Programação em Java ... 
+  -🤔 Pronomouns: ele/dele
 <br>
-- 🌱 Estudando Typescript/HTML/CSS/ANGULAR ... 
+  -💖<b> Desenvolvedor FullStack Java Junior</b> alumini pela <a href="https://brazil.generation.org/">Generation Brasil</a>
 <br>
-- 🤔 Pronomouns: ele/dele
+  -🔭 Programação em Java ... 
+<br>
+  -🌱 Estudando Typescript/HTML/CSS/ANGULAR ... 
+<br>
 
-
+##
 
 <div>
   <a href="https://github.com/Cassimiroprog">
@@ -27,8 +29,8 @@ Seja bem vindo ao meu Github
 </div> 
   
   ## 
-    <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:gabrielcassimiro_@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-   
+    
+   <a href = "mailto:gabrielcassimiro_@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-cassimiro-606067145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
     
