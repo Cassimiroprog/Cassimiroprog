@@ -6,8 +6,6 @@ Seja bem vindo ao meu Github
 <br>
   -💖<b> Data analysis</b> and  Development 
 <br>
-   Programação em Java ... 
-<br>
   -🌱 Estudando PBI/DAX/SQLSERVER/BD ... 
 <br>
 
