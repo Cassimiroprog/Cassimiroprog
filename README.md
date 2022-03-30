@@ -14,9 +14,7 @@ Seja bem vindo ao meu Github
 ##
 
 <div>
-  <a href="https://github.com/Cassimiroprog">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielCassimiro&show_icons=true&theme=secundary&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCassimiro&layout=compact&langs_count=7&theme=secundary"/>
+ 
 </div> 
   <div style="display: inline_block"><br>
  
@@ -26,7 +24,6 @@ Seja bem vindo ao meu Github
   
   ## 
     
-   <a href = "mailto:gabrielcassimiro_@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-cassimiro-606067145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
     
